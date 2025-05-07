@@ -62,6 +62,7 @@ Il sito web statico è composto da **quattro pagine HTML**, collegate tra loro, 
 - **Home page**: una panoramica introduttiva con le info sulle prossime partite.
 - **Pagina "Chi siamo"**: breve descrizione della storia della squadra ed elenco dei giocatori con numero, nazionalità, età, ruolo.
 - **Pagina "Trofei"**: mostra i trofei vinti dalla squadra con aggiunta di immagini(`.jpg`).
+- **Pagina "Servizi"**: mostra i servizi offerti dal club e i rispettivi social media (Instagram, Youtube, X).
 
 ### Design e responsive layout
 Il sito è stato stilizzato con **CSS**, e include un layout flessibile con aggiunta di "animazioni"
