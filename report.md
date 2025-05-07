@@ -8,6 +8,7 @@ L'obiettivo di questo progetto è la creazione di un semplice **web server HTTP*
 Sono stati implementati alcuni aspetti opzionali, tra cui:
 - La gestione dei MIME types per garantire che i file siano inviati con l'intestazione `Content-Type` corretta.
 - Il logging delle richieste HTTP in un file di log.
+- Aggiunta di animazioni tramite il file css
 
 ### Tecnologie utilizzate
 - **Python**: per l'implementazione del server.
